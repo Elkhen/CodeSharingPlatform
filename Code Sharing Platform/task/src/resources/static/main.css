@@ -1,0 +1,29 @@
+#load_date {
+    color: green;
+}
+
+.codebox {
+    border:1px solid black;
+    width: 500px;
+    padding: 0px;
+    margin: 0px 0px 10px 0px;
+}
+
+textarea {
+    width: 425px;
+    padding: 6px;
+    margin: 0px;
+    height: 75px;
+}
+
+#send_snippet {
+    margin-top: 10px;
+}
+
+code {
+    margin: 0px;
+}
+
+div {
+    margin: 10px 0px 10px 0px;
+}
